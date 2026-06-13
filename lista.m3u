@@ -210,3 +210,5 @@ acestream://a4cbadd19442b800727be713270fa9c917cc8582
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/5cf5a026c170934c311c121c/63ab4f5a7a18d4001ca360c9_UFC_FightPass_hor_neg.png" group-title="UFC",UFC FIGHT PASS 720p *
 acestream://89957cce5abc7c1551939c7c92697e980d632b62
+#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/M1SD" group-title="MUNDIAL", DAZN MUNDIAL 
+acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
